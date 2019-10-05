@@ -4,6 +4,12 @@
 # Log file
 *.log
 
+# Data File
+*.csv
+*.json
+*.jsonl
+*.txt
+
 # BlueJ files
 *.ctxt
 
